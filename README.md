@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**rubia-cavalcante/rubia-cavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rubia Cavalcante 👩‍🦱
 
-Here are some ideas to get you started:
+# Technologies 🛠️ :
+React;
+JavaScript;
+HTML5;
+CSS3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me 👩‍💻:
+•​🧪 I am passionate about chemistry. 
+•​👩‍🔬 I have experience in the chemistry field, where I developed skills such as organization, critical analysis, and problem-solving—competencies that I now apply to my learning in technology.
+•💻 ​I am currently deepening my knowledge in web development (HTML, CSS, Javascript, and React).
+•⚡️My values include continuous learning, proactivity, organization, and ethics.
+
